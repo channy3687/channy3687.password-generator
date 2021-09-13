@@ -14,3 +14,6 @@ If user decides to not follow any of the given prompts the wite will instruct th
 https://github.com/channy3687/channy3687.password-generator
 
 
+https://channy3687.github.io/channy3687.password-generator/
+
+
