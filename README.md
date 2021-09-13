@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Password Generator
 
 <h1>Description</h2>
@@ -8,3 +9,6 @@ The user will have to choose at least one of the given criterias: lower case, up
 
 If user decides to not follow any of the given prompts the wite will instruct the user to meet the criterias.
 </p>
+=======
+# Password Generator 
+>>>>>>> 48cc1656e2ec3d3d6aa64b32b80fab951d37c481
