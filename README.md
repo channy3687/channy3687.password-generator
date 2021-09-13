@@ -9,4 +9,7 @@ The user will have to choose at least one of the given criterias: lower case, up
 If user decides to not follow any of the given prompts the wite will instruct the user to meet the criterias.
 </p>
 
+* [GitHub Repository](https://github.com/channy3687/channy3687.password-generator)
+
+
 
